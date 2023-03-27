@@ -1,5 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=I'm%20Lee%20Sungjin%20👋&fontSize=90" />
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Asungajinli" src="./assets/Asungajinli.png" /></a></p>
+<p align="center">
+<a href="https://anuraghazra.github.io">
+<img width="80%" alt="Asungajinli" src="./assets/github.png"  />
+</a>
+</p>
 
 <table>
       <tr>
