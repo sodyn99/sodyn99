@@ -1,4 +1,4 @@
-### I'm Sungjin Lee 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=I'm Sungjin Lee 👋&fontSize=90" />
 
 🔭 **My Blog** &rarr; https://asungajinli.github.io
 
