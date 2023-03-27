@@ -1,6 +1,6 @@
 ### I'm Sungjin Lee 👋
 
-**My Blog** &arr; https://asungajinli.github.io
+**My Blog** &rarr; https://asungajinli.github.io
 <!--
 **asungajinli/asungajinli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
