@@ -1,5 +1,5 @@
 <p align="center">
-      <a href="https://anuraghazra.github.io">
+      <a href="https://asungajinli.github.io">
             <img width="80%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
       </a>
 </p>
@@ -12,7 +12,6 @@
 
 
 ### Top Repositories
-🔭 **My Blog** &rarr; https://asungajinli.github.io<br>
 
 <a href="https://github.com/asungajinli/asungajinli.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=asungajinli.github.io&theme=vue-dark" />
