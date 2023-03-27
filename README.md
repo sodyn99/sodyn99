@@ -14,6 +14,6 @@
 ### Top Repositories
 
 <a href="https://github.com/asungajinli/asungajinli.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=asungajinli.github.io&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=asungajinli.github.io&theme=buefy" />
 </a>
 
