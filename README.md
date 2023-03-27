@@ -1,5 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm Sungjin Lee 👋capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=render%20render&fontSize=90" />
+
 🔭 **My Blog** &rarr; https://asungajinli.github.io
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asungajinli&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=asungajinli&show_icons=true">
