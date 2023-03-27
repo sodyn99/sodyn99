@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=I'm%20Lee%20Sungjin%20👋&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=I'm%20Lee%20Sungjin%20👋&fontSize=90" />
 
 🔭 **My Blog** &rarr; https://asungajinli.github.io
 
