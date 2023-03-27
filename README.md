@@ -1,6 +1,6 @@
 <p align="center">
       <a href="https://anuraghazra.github.io">
-            <img width="80%" alt="Asungajinli" src="./assets/github.png"  />
+            <img width="80%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
       </a>
 </p>
 
