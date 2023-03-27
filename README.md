@@ -2,9 +2,9 @@
 
 🔭 **My Blog** &rarr; https://asungajinli.github.io
 
-<table bgcolor="skyblue">
+<table>
       <tr>
-        <td bgcolor = "#ffeecc"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asungajinli&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Asungajinli's github stats" /></a></td><td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asungajinli&layout=compact&theme=vue-dark&hide_border=true" /></a></td>
+        <td bgcolor = "#ffeecc"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asungajinli&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asungajinli's github stats" /></a></td><td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asungajinli&layout=compact&theme=buefy&hide_border=true" /></a></td>
       </tr>
 </table>
 
