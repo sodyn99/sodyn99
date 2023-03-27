@@ -3,8 +3,10 @@
 🔭 **My Blog** &rarr; https://asungajinli.github.io
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asungajinli&layout=compact"><br><br>
-![Asungajinli's GitHub stats](https://github-readme-stats.vercel.app/api?username=asungajinli&theme=vue-dark&show_icons=true)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asungajinli&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Asungajinli's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asungajinli&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
 
 <!--
 **asungajinli/asungajinli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
