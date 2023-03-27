@@ -4,7 +4,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asungajinli&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=asungajinli&show_icons=true">
+![Asungajinli's GitHub stats](https://github-readme-stats.vercel.app/api?username=asungajinli&theme=vue-dark&show_icons=true)
 
 <!--
 **asungajinli/asungajinli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
