@@ -1,6 +1,6 @@
 <p align="center">
       <a href="https://asungajinli.github.io">
-            <img width="100%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
+            <img width="80%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
       </a>
 </p>
 
@@ -16,5 +16,7 @@
 <a href="https://github.com/asungajinli/asungajinli.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=asungajinli.github.io&theme=buefy" />
 </a>
+
+<br><br><br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer)
