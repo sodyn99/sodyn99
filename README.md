@@ -1,6 +1,6 @@
 <p align="center">
       <a href="https://asungajinli.github.io">
-            <img width="80%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
+            <img width="100%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
       </a>
 </p>
 
