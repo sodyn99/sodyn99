@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=header" alt="header" style="-webkit-user-drag: none;"/>
 <p align="center">
       <a href="https://asungajinli.github.io">
             <img width="100%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
