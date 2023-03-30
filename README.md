@@ -17,6 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=asungajinli.github.io&theme=buefy" />
 </a>
 
-<br><br><br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;"/>
