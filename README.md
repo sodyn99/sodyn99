@@ -17,4 +17,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=asungajinli.github.io&theme=buefy" />
 </a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer)
