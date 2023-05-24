@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=header" alt="header" style="-webkit-user-drag: none;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=header" alt="header" style="-webkit-user-drag: none;pointer-events: none;"/>
 
 <p align="center">
       <a href="https://asungajinli.github.io">
@@ -21,4 +21,4 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;pointer-events: none;"/>
