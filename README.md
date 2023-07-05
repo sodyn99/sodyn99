@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=header" alt="header" style="-webkit-user-drag: none;user-select: none;"/>
-
+<h1 align="center">Hi, I'm Sungjin 👋</h1>
+<h3 align="center">A passionate Uni Student from S.Korea</h3>
 <p align="center">
       <a href="https://asungajinli.github.io">
             <img width="100%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
@@ -22,10 +23,6 @@
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>
-
-
-<h1 align="center">Hi, I'm Sungjin 👋</h1>
-<h3 align="center">A passionate Uni Student from S.Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asungajinli&label=Profile%20views&color=0e75b6&style=flat" alt="asungajinli" /> </p>
 
