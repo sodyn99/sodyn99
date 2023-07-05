@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=header" alt="header" style="-webkit-user-drag: none;user-select: none;"/>
 <h1 align="center">Hi, I'm Sungjin 👋</h1>
 <h3 align="center">A passionate Uni Student from S.Korea</h3>
+<br>
 <p align="center">
       <a href="https://asungajinli.github.io">
             <img width="100%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
