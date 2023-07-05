@@ -40,6 +40,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asungajinli&label=Profile%20views&color=0e75b6&style=flat" alt="asungajinli" /> </p>
 
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asungajinli" alt="asungajinli" /></a> </p>](url)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>
