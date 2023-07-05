@@ -19,7 +19,7 @@
 <a href="https://github.com/asungajinli/asungajinli.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=asungajinli.github.io&theme=buefy" />
 </a>
-
+<div style="height:1em;"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asungajinli&label=Profile%20views&color=0e75b6&style=flat" alt="asungajinli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asungajinli" alt="asungajinli" /></a> </p>
