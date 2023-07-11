@@ -37,9 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asungajinli&" alt="asungajinli" /></p>
 
-
-<div style="height:1em;"></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asungajinli&label=Profile%20views&color=0e75b6&style=flat" alt="asungajinli" /> </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>
