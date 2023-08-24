@@ -15,6 +15,7 @@
       </tr>
 </table>
 
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdin)](https://solved.ac/sdin)-->
 
 ### Top Repositories:
 
