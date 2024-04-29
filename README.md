@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Uni Student from S.Korea</h3>
 <br><br>
 
+<!--
 <p align="center">
       <a href="https://asungajinli.github.io">
             <img width="100%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
@@ -14,9 +15,11 @@
          <td bgcolor = "#ffeecc"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=asungajinli&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asungajinli's github stats" /></td><td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asungajinli&layout=compact&theme=buefy&hide_border=true" /></td>
       </tr>
 </table>
+-->
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdin)](https://solved.ac/sdin)-->
 
+<!--
 ### Top Repositories:
 
 <a href="https://github.com/asungajinli/asungajinli.github.io">
@@ -25,6 +28,7 @@
 <a href="https://github.com/asungajinli/sports-web-crawling">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=sports-web-crawling&theme=buefy" />
 </a>
+-->
 
 ### Connect with me:
 <p align="left">
