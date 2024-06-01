@@ -32,8 +32,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/asungajinli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asungajinli" height="30" width="40" /></a>
-<a href="https://instagram.com/s_din.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_din.99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sdin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asungajinli" height="30" width="40" /></a>
+<a href="https://instagram.com/sdin.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_din.99" height="30" width="40" /></a>
 <a href="https://discord.gg/uTny3x3Xeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="285960214337945600" height="30" width="40" /></a>
 </p>
 
