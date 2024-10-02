@@ -5,14 +5,14 @@
 
 <!--
 <p align="center">
-      <a href="https://asungajinli.github.io">
-            <img width="100%" alt="Asungajinli" src="./assets/github_asungajinli.png"  />
+      <a href="https://sodyn99.github.io">
+            <img width="100%" alt="sodyn99" src="./assets/github_sodyn99.png"  />
       </a>
 </p>
 
 <table>
       <tr>
-         <td bgcolor = "#ffeecc"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=asungajinli&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asungajinli's github stats" /></td><td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asungajinli&layout=compact&theme=buefy&hide_border=true" /></td>
+         <td bgcolor = "#ffeecc"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sodyn99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sodyn99's github stats" /></td><td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodyn99&layout=compact&theme=buefy&hide_border=true" /></td>
       </tr>
 </table>
 -->
@@ -22,17 +22,17 @@
 <!--
 ### Top Repositories:
 
-<a href="https://github.com/asungajinli/asungajinli.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=asungajinli.github.io&theme=buefy" />
+<a href="https://github.com/sodyn99/sodyn99.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodyn99&repo=sodyn99.github.io&theme=buefy" />
 </a>
-<a href="https://github.com/asungajinli/sports-web-crawling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asungajinli&repo=sports-web-crawling&theme=buefy" />
+<a href="https://github.com/sodyn99/sports-web-crawling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodyn99&repo=sports-web-crawling&theme=buefy" />
 </a>
 -->
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/sdin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asungajinli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sdin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sodyn99" height="30" width="40" /></a>
 <a href="https://instagram.com/sdin.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_din.99" height="30" width="40" /></a>
 <a href="https://discord.gg/uTny3x3Xeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="285960214337945600" height="30" width="40" /></a>
 </p>
@@ -43,9 +43,11 @@
 -->
 
 <!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asungajinli&" alt="asungajinli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sodyn99&" alt="sodyn99" /></p>
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asungajinli&label=Profile%20views&color=0e75b6&style=flat" alt="asungajinli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sodyn99&label=Profile%20views&color=0e75b6&style=flat" alt="sodyn99" /> </p>
+
+![](profile-3d-contrib/profile-green-animate.svg)
