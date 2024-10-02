@@ -3,19 +3,11 @@
 <h3 align="center">A passionate Uni Student from S.Korea</h3>
 <br><br>
 
-<!--
-<p align="center">
-      <a href="https://sodyn99.github.io">
-            <img width="100%" alt="sodyn99" src="./assets/github_sodyn99.png"  />
-      </a>
-</p>
-
 <table>
       <tr>
          <td bgcolor = "#ffeecc"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sodyn99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sodyn99's github stats" /></td><td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodyn99&layout=compact&theme=buefy&hide_border=true" /></td>
       </tr>
 </table>
--->
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdin)](https://solved.ac/sdin)-->
 
@@ -34,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sdin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sodyn99" height="30" width="40" /></a>
 <a href="https://instagram.com/sdin.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_din.99" height="30" width="40" /></a>
-<a href="https://discord.gg/uTny3x3Xeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="285960214337945600" height="30" width="40" /></a>
+<!--<a href="https://discord.gg/uTny3x3Xeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="285960214337945600" height="30" width="40" /></a>-->
 </p>
 
 <!--
