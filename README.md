@@ -1,4 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=header" alt="header" style="-webkit-user-drag: none;user-select: none;"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sodyn99&label=Profile%20views&color=0e75b6&style=flat" alt="sodyn99" /> </p>
+
 <h1 align="center">Hi, I'm Sungjin 👋</h1>
 <h3 align="center">A passionate Uni Student from S.Korea</h3>
 <br><br>
@@ -38,8 +41,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sodyn99&" alt="sodyn99" /></p>
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sodyn99&label=Profile%20views&color=0e75b6&style=flat" alt="sodyn99" /> </p>
-
 ![](profile-3d-contrib/profile-green-animate.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>
