@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=header" alt="header" style="-webkit-user-drag: none;user-select: none;"/>
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=header" alt="header" style="-webkit-user-drag: none;user-select: none;"/>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodyn99&label=Profile%20views&color=0e75b6&style=flat" alt="sodyn99" /> </p>
 
@@ -39,4 +39,4 @@
 
 ![](profile-3d-contrib/profile-green-animate.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=silver&height=200&section=footer" alt="footer" style="-webkit-user-drag: none;user-select: none;"/>-->
