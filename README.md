@@ -8,10 +8,10 @@
 
 <table>
       <tr>
-            <td bgcolor = "#ffeecc"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sodyn99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sodyn99's github stats" /></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sodyn99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sodyn99's github stats" /></td>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodyn99&layout=compact&theme=buefy&hide_border=true" /></td>
       </tr>
-      <tr bgcolor = "#ffeecc">
+      <tr>
             <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sodyn99&hide_border=true" alt="GitHub Streak" /></a></td>
             <td>
                   <p align="left">
