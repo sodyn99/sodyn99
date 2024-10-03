@@ -13,8 +13,7 @@
       </tr>
       <tr>
             <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sodyn99&hide_border=true&background=f6f8fa" alt="GitHub Streak" /></a></a></td>
-            <td>
-                  <h2>Connect With Me</h2>
+            <td align="center">
                   <p><a href="https://linkedin.com/in/sdin99" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sodyn99"/></a></p>
                   <p><a href="https://instagram.com/sdin.99" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sdin.99"/></a></p>
                   <p><a href="mailto:sodyn99@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sdin.99"/></a></p>
