@@ -12,7 +12,7 @@
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodyn99&layout=compact&theme=buefy&hide_border=true" /></td>
       </tr>
       <tr>
-            <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sodyn99&hide_border=true" alt="GitHub Streak" /></a></td>
+            <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sodyn99&hide_border=true&background=f6f8fa" alt="GitHub Streak" /></a></a></td>
             <td>
                   <p align="left">
                   <h2>Connect With Me:</h2>
