@@ -23,12 +23,14 @@
       <tr>
             <td><img src="profile-3d-contrib/profile-green-animate.svg"/</td>
             <td align="center">
+                  <p><img align="center" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/></p>
                   <p><img align="center" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></p>
                   <p><img align="center" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/></p>
                   <p><img align="center" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></p>
                   <p><img align="center" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/></p>
                   <p><img align="center" src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="elastic"/></p>
                   <p><img align="center" src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/></p>
+                  <p><img align="center" src="https://img.shields.io/badge/bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="bluetooth"/></p>
             </td>
       </tr>
 </table>
