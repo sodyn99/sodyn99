@@ -30,7 +30,6 @@
                   <p><img align="center" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/></p>
                   <p><img align="center" src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="elastic"/></p>
                   <p><img align="center" src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/></p>
-                  <p><img align="center" src="https://img.shields.io/badge/bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="bluetooth"/></p>
             </td>
       </tr>
 </table>
