@@ -14,15 +14,21 @@
       <tr>
             <td align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sodyn99&hide_border=true&background=f6f8fa" alt="GitHub Streak"/></a></td>
             <td align="center">
-                  <p><a href="https://sodyn99.github.io"><img align="center" src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="sdin.99"/></a></p>
-                  <p><a href="https://linkedin.com/in/sdin99"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sodyn99"/></a></p>
+                  <p><a href="https://sodyn99.github.io"><img align="center" src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="sodyn99"/></a></p>
+                  <p><a href="https://linkedin.com/in/sdin99"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sdin99"/></a></p>
                   <p><a href="https://instagram.com/sdin.99"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sdin.99"/></a></p>
-                  <p><a href="mailto:sodyn99@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sdin.99"/></a></p>
+                  <p><a href="mailto:sodyn99@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sodyn99"/></a></p>
             </td>
       </tr>
       <tr>
             <td><img src="profile-3d-contrib/profile-green-animate.svg"/</td>
             <td align="center">
+                  <p><img align="center" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></p>
+                  <p><img align="center" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/></p>
+                  <p><img align="center" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></p>
+                  <p><img align="center" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/></p>
+                  <p><img align="center" src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="elastic"/></p>
+                  <p><img align="center" src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/></p>
             </td>
       </tr>
 </table>
